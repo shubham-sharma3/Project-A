@@ -1,1 +1,2 @@
-# Project-A
+# Project-PINN
+A prediction model that incorporates the physical meaning into the learning process of the model. The project is done in Julia, and solves the regression problem for a 1D Harmonic Oscillator. The key idea behind PINN is to incorporate the differential equations directly in the loss function while training the neural network. Traditionally, non-linear regression models are solved using LSTMs and PINN is a novel method for such problems.  By incorporating physical principles into machine learning, we can create more powerful models that learn from data and build upon our scientific knowledge.
